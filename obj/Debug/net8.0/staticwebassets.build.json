@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "otzczi8bVjEPIUJTBxTx4IkSxsxaiYxajZU9izZHA28=",
+  "Source": "DockerWebContainer",
+  "BasePath": "_content/DockerWebContainer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
